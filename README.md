@@ -20,7 +20,7 @@ This script makes it easy to grab all your data from Exophase. Just log in throu
 ## Linux
     python3 -m venv venv
     source venv/bin/activate 
-## Windows
+## Windows PowerShell
     py -3 -m venv venv
     \venv\Scripts\Activate.ps1
 3.Install dependencies:
