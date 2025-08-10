@@ -1,6 +1,8 @@
 ## ExophaseExport
 
-This script makes it easy to grab all your data from Exophase. Just log in through the browser it opens, it’ll find your player ID on its own, then download everything and save it as JSON and Excel files for you.
+This script makes it easy to grab all your data from exophase.com 
+
+Just log in through the browser it opens, it’ll find your player ID on its own, then download everything and save it as JSON and Excel files for you.
 
 ## Requirements
 
