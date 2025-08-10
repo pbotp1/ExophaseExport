@@ -17,8 +17,12 @@ This script makes it easy to grab all your data from Exophase. Just log in throu
 
 2.(Recommended) Сreate a virtual environment:
 
+## Linux
     python3 -m venv venv
     source venv/bin/activate 
+## Windows
+    py -3 -m venv venv
+    \venv\Scripts\Activate.ps1
 3.Install dependencies:
 
     pip install playwright pandas openpyxl
